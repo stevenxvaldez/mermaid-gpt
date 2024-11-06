@@ -20,4 +20,4 @@ You can check out which prompts are used in [the source code prompts folder](htt
 
 # NOTE
 
-If you like the repo please star :)  
+If you like the repo please star :)
