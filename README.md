@@ -17,3 +17,7 @@ Before continuing, make sure you have [Node.js](https://nodejs.org/en/) installe
 ## Prompts
 
 You can check out which prompts are used in [the source code prompts folder](https://github.com/luttje/mermaid-gpt/tree/main/src/lib/prompts).
+
+# NOTE
+
+If you like the repo please star :) 
